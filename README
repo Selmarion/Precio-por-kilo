@@ -1,0 +1,52 @@
+# Calculadora de Costo por Kilogramo
+
+¡Bienvenido a la Calculadora de Costo por Kilogramo! Este es un sencillo bot de Telegram que te ayuda a calcular el costo de un artículo en función de su peso y precio por gramo.
+
+## Características
+
+- Calcula el costo por kilogramo de un artículo.
+- Interactúa con el bot mediante comandos de Telegram.
+- Fácil de configurar con tu propio token de Telegram.
+
+## Uso
+
+1. Clona este repositorio en tu máquina local:
+
+```bash
+git clone https://github.com/tuusuario/tu-proyecto.git
+```
+
+2. Crea un archivo `key/token.json` y coloca tu token de Telegram de la siguiente manera:
+
+```json
+{
+  "telegramToken": "TU_TOKEN_DE_TELEGRAM"
+}
+```
+
+3. Instala las dependencias utilizando npm:
+
+```bash
+npm install
+```
+
+4. Ejecuta el bot:
+
+```bash
+node main.js
+```
+
+5. Comienza una conversación con el bot en Telegram usando el comando `/start` y sigue las instrucciones para calcular el costo por kilogramo.
+
+## Contribuciones
+
+Si deseas contribuir a este proyecto, ¡estamos abiertos a colaboraciones! Siéntete libre de bifurcar el repositorio y enviar pull requests con mejoras.
+
+## Problemas y Soporte
+
+Si encuentras problemas o necesitas ayuda, por favor crea un issue en este repositorio y haremos lo posible por ayudarte.
+
+¡Gracias por usar la Calculadora de Costo por Kilogramo!
+```
+
+Recuerda reemplazar `"TU_TOKEN_DE_TELEGRAM"` en el archivo `token.json` con tu propio token de Telegram. Asegúrate de proporcionar información relevante sobre cómo configurar y usar tu proyecto en el archivo README.

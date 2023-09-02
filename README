@@ -13,7 +13,7 @@
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tuusuario/tu-proyecto.git
+gh repo clone Selmarion/Precio-por-kilo
 ```
 
 2. Crea un archivo `key/token.json` y coloca tu token de Telegram de la siguiente manera:
